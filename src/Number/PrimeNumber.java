@@ -1,6 +1,6 @@
 // Check given number is Prime or Not :
 
-package NumberAndString;
+package Number;
 
 public class PrimeNumber {
     public static void main(String[] args) {

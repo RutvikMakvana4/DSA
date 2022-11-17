@@ -1,4 +1,4 @@
-package NumberAndString;
+package Number;
 
 public class Swap2Numbers {
 

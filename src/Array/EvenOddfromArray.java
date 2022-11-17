@@ -1,6 +1,6 @@
 //Print Even & Odd Numbers from an Array
 
-package array;
+package Array;
 
 public class EvenOddfromArray {
     public static void main(String[] args) {

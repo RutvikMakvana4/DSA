@@ -1,4 +1,4 @@
-package NumberAndString;
+package Number;
 
 public class CountNumberOfDigits {
     public static void main(String[] args) {

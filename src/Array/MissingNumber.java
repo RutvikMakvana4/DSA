@@ -4,7 +4,7 @@
 // --> Array No need to be sorted order
 // --> Values should be in range
 
-package array;
+package Array;
 
 public class MissingNumber {
     public static void main(String[] args) {

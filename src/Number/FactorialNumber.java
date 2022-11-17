@@ -1,6 +1,6 @@
 //Factorial of a Number
 
-package NumberAndString;
+package Number;
 
 public class FactorialNumber {
 

@@ -1,6 +1,6 @@
 // Find Sum of Elements in Array
 
-package array;
+package Array;
 
 public class SumOfElement {
     public static void main(String[] args) {

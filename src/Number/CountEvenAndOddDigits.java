@@ -1,4 +1,4 @@
-package NumberAndString;
+package Number;
 
 public class CountEvenAndOddDigits {
     public static void main(String[] args) {

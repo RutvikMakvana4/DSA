@@ -1,6 +1,6 @@
 // How to find Duplicate Elements in array :
 
-package array;
+package Array;
 
 import java.util.HashSet;
 

@@ -1,6 +1,6 @@
 // How to generate Random Numbers and strings :
 
-package NumberAndString;
+package String;
 
 import java.util.Random;
 

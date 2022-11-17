@@ -1,8 +1,6 @@
 // how to check both Arrays are equal or not
 
-package array;
-
-import java.util.Arrays;
+package Array;
 
 public class CheckArrayEquals {
     public static void main(String[] args) {
